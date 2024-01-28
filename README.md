@@ -1,5 +1,5 @@
 # Exoplanet-Detection-using-CNN
-The project aims to leverage machine learning and deep learning techniques to analyse the flux data and accurately classify stars as either exoplanet-stars or non-exoplanet-stars. By training a model on the provided dataset, we seek to uncover patterns and features indicative of exoplanet presence, enabling the model to make predictions on unseen data.
+The project aims to leverage machine learning and deep learning techniques to analyse the flux data and accurately classify stars as either exoplanet-stars or non-exoplanet-stars. By training a model on the provided dataset, i seek to uncover patterns and features indicative of exoplanet presence, enabling the model to make predictions on unseen data.
 
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -73,7 +73,7 @@ Recall and precision are used as performance metrics for the above dataset in th
 
 # Exploratory Data Analysis
 
-Using the flux values, we plot the waves with respect to time for both exoplanet-stars and non-exoplanet-stars.
+Using the flux values, i plotted the waves with respect to time for both exoplanet-stars and non-exoplanet-stars.
 
 ![Waves with respect to time](https://github.com/Pr0-C0der/Exoplanet-Detection-using-CNN/assets/93116210/3b3dbdf9-ef29-46ee-92d5-cfdd0536bbb0)
 
@@ -153,10 +153,10 @@ The given CNN (Convolutional Neural Network) model is designed for a binary clas
     - The model predicts the probability of the positive class based on the input.
 
 
-To summarize, this model applies a series of convolutional, pooling, normalization, dropout, and dense layers to process the input data and extract relevant features. The flattened output is then fed into a sequence of dense layers, progressively reducing the dimensionality and introducing non-linearities. The final layer produces a binary classification prediction using the sigmoid activation function. We use `Adam` optimizer for optimization purposes.
+To summarize, this model applies a series of convolutional, pooling, normalization, dropout, and dense layers to process the input data and extract relevant features. The flattened output is then fed into a sequence of dense layers, progressively reducing the dimensionality and introducing non-linearities. The final layer produces a binary classification prediction using the sigmoid activation function. I used `Adam` optimizer for optimization purposes.
 
 
-Additionally, we use EarlyStopping to stop training the model when it reaches a point of no further improvement and ExponentialDecay to improve deep learning model training even more. 
+Additionally, i used EarlyStopping to stop training the model when it reaches a point of no further improvement and ExponentialDecay to improve deep learning model training even more. 
 
 The hyperparameters, including the learning rate, required to train the model can be found inside the Exoplanet_Detection notebook within the repository.
 
