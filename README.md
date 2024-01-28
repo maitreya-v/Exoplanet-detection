@@ -9,18 +9,7 @@ The project aims to leverage machine learning and deep learning techniques to an
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-gadekar-b7352b245/)](https://www.linkedin.com/in/maitreya-vaghulade-438439228/)
 
-## Table of Contents
 
-- [What is Exoplanet?](#what-is-exoplanet)
-- [Methods for Detecting Exoplanets](#methods-for-detecting-exoplanets)
-- [Transit Method used for Exoplanet Detection](#transit-method-used-for-exoplanet-detection)
-- [Literature Review](#literature-review)
-- [Dataset Description](#dataset-description)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Preprocessing](#data-preprocessing)
-- [Modelling](#modelling)
-- [Results](#results)
-- [Conclusion](#conclusion)
 
 
 # What is Exoplanet?
