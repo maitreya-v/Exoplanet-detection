@@ -7,8 +7,7 @@ The project aims to leverage machine learning and deep learning techniques to an
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Pr0-C0der/exoplanet-detection/blob/main/LICENSE)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-gadekar-b7352b245/)](https://www.linkedin.com/in/prathamesh-gadekar-b7352b245/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:prathamesh.gadekar@hotmail.com)](mailto:prathamesh.gadekar@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-gadekar-b7352b245/)](https://www.linkedin.com/in/maitreya-vaghulade-438439228/)
 
 ## Table of Contents
 
